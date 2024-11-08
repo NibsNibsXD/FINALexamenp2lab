@@ -7,6 +7,7 @@
  *
  * @author Jorge Aguirre
  */
-public class MenuActions {
-    
+public interface MenuActions {
+    void submenu();
+    void ejecutarOpcion(int opcion);
 }
