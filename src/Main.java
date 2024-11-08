@@ -1,5 +1,3 @@
-
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
@@ -38,8 +36,8 @@ public class Main extends JFrame     {
         
         JButton addButton = new JButton( "Agregar Item" );
         JButton rentButton = new JButton( "Rentar Item" );
-        JButton submenuButton = new JButton( "Ejecutar Sub Menu" );
-        JButton printAllButton = new JButton( "Imprimir Todo" );
+        JButton submenuButton = new JButton( "Menu Config Juego" );
+        JButton printAllButton = new JButton( "Imprimir Lista" );
 
         
         
